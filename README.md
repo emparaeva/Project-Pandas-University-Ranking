@@ -1,1 +1,1 @@
-# Project-Pandas-University-Ranking-
+# Project Pandas University Ranking
